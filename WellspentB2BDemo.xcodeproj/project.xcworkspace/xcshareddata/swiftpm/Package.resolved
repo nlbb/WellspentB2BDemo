@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "wellspent-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nlbb/Wellspent-iOS-SDK",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ff2c43a181616edd02898b16e02eefd944198c42"
+      }
+    }
+  ],
+  "version" : 2
+}
