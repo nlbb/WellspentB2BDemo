@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/nlbb/Wellspent-iOS-SDK",
       "state" : {
-        "branch" : "main",
-        "revision" : "ff2c43a181616edd02898b16e02eefd944198c42"
+        "branch" : "test/api-calls",
+        "revision" : "5a92dfe9669b2d746ad86bd6561cdb34db846f0b"
       }
     }
   ],

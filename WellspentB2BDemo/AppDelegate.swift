@@ -9,7 +9,8 @@ public final class AppDelegate: NSObject,UIApplicationDelegate {
                 with: WellspentSDKConfiguration(
                     partnerId: "example",
                     localizedAppName: "Example App",
-                    redirectionURL: URL(string: "https://www.wellspent.so")!
+                    redirectionURL: URL(string: "https://www.wellspent.so")!,
+                    environment: .staging
                 )
             )
         } catch {

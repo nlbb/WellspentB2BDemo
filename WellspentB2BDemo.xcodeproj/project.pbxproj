@@ -382,7 +382,7 @@
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/nlbb/Wellspent-iOS-SDK";
 			requirement = {
-				branch = main;
+				branch = "test/api-calls";
 				kind = branch;
 			};
 		};
